@@ -422,6 +422,14 @@
                 <xsl:value-of select="@ana"/>
             </xsl:attribute>
           <xsl:value-of select="key('noteById', @ana)"/>
+
+        <br />
+        <xsl:if test="key('noteById', @ana)/@resp">
+        <xsl:text> (Responsabile: </xsl:text>
+        <xsl:value-of select="key('noteById', @ana)/@resp"/>
+        <xsl:text>)</xsl:text>
+        </xsl:if>
+
         </xsl:element>
    
        <xsl:element name="a">

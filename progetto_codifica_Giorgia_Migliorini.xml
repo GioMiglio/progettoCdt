@@ -170,38 +170,38 @@ esplicitando, pero, grazie ai tag ref e target la corretta disposizione grafica 
 
     <!--ANNOTAZIONI VARIE-->
     <noteGrp xml:id="varie">
-        <note xml:id="note1" type="gloss" place="bottom">Espressione: ad ogni piè. Spiegazione: A ogni passo | continuamente | ripetutamente</note>
-        <note xml:id="note2" type="gloss" place="bottom">Espressione: non inducas in tentationem. Traduzione: non abbandonarci alla tentazione</note>        
-        <note xml:id="note3" type="annotation" place="bottom">Il pronome 'si' è impiegato in funzione di un soggetto indefinito 'noi' </note>
-        <note xml:id="note4" type="annotation" place="bottom">Il pronome 'si' è impiegato con funzione impersonale</note>
-        <note xml:id="note5" type="annotation" place="bottom">Il pronome 'si' è impiegato con funzione pleonastica</note>
-        <note xml:id="note6" type="gloss" place="bottom">Espressione: del pari. Spiegazione: ugualmente</note>
-        <note xml:id="note7" type="gloss" place="bottom">Espressione: testé. Spiegazione: poco fa</note>
-        <note xml:id="note8" type="annotation" place="bottom">'tutto questo' si riferisce alle coordinate delle righe 23-26</note>
-        <note xml:id="note9" type="gloss" place="bottom">Espressione: amministrazione della cosa pubblica. Spiegazione: pubblica aministrazione|gestione dei beni pubblici</note>
-        <note xml:id="note10" type="gloss" place="bottom">Espressione: onde. Spiegazione: da cui|da dove</note>
-        <note xml:id="note11" type="gloss" place="bottom">Espressione: guisa. Spiegazione: forma | maniera | modo</note>
-        <note xml:id="note12" type="annotation" place="bottom">il verbo 'emanare' è impiegato col significato di 'formare|creare|originare'</note>
-        <note xml:id="note13" type="gloss" place="bottom">Espressione: siansi. Spiegazione: siano</note>
-        <note xml:id="note14" type="annotation" place="bottom">'lui' fa riferimento al 'Governo', qui personificato</note>
-        <note xml:id="note15" type="gloss" place="bottom">Espressione: concione. Spiegazione: arringa pubblica</note>
-        <note xml:id="note16" type="gloss" place="bottom">Espressione: china. Spiegazione: pendio|superficie in pendenza</note>
-        <note xml:id="note17" type="certainity" place="bottom"><mentioned>piazza</mentioned> fa riferimento al pubblico, al popolo, richiamando il concetto di piazza come luogo di organizzazione, dibattito e contestazione</note>
-        <note xml:id="note18" type="gloss" place="bottom">Espressione: a man salva. Spiegazione: senza impedimenti</note>
-        <note xml:id="note19" type="gloss" place="bottom">Espressione: sic vos non vobis. Traduzione: così voi non per voi</note>
-        <note xml:id="note20" type="gloss" place="bottom">Spiegazione: in onta. Espressione: malgrado | nonostante</note>
-        <note xml:id="note21" type="gloss" place="bottom">Espressione: bell&#8217;e. Spiegazione: indica conclusione di un&#8217;azione</note>
-        <note xml:id="note22" type="gloss" place="bottom">Espressione: Raccolta. Spiegazione: Il termine fa riferimento alla pubblicazione della casa editrice Successori Le Monnier</note>
-        <note xml:id="note23" type="gloss" place="bottom">Espressione: adunque. Spiegazione: variante letteraria di dunque</note>
-        <note xml:id="note24" type="certainity" place="bottom">La referenza bibliografica fa riferimento all&#8217;opera sopracitata del <persName><surname>Mauri</surname></persName></note>
-        <note xml:id="note25" type="gloss" place="bottom">Spiegazione: sopravegliare. Espressione: soprintendere | prestare attenzione</note>
-        <note xml:id="note26" type="annotation" place="bottom">L&#8217;impresa fa riferimento al tentativo di annessione delle <region><geogName>Marche</geogName></region> e dell&#8217;<region><geogName>Umbria</geogName></region> al <country type="historical">Regno unito d&#8217;Italia</country>, in construzione</note>
-        <note xml:id="note27" type="gloss" place="bottom">Espressione: rizzare. Spiegazione: qui usato col significato di alzare | elevare | diventare</note>
-        <note xml:id="note28" type="gloss" place="bottom">Espressione: alla spicciolata. Spiegazione: a un gruppo di pochi</note>
-        <note xml:id="note29" type="annotation" place="bottom">Personaggio inventato per la narrazione</note>
-        <note xml:id="note30" type="gloss" place="bottom">L'espressione fa riferimento a un gruppo di lavori, centrali per la tradizione letteraria medievale, che ruotano attorno alla 
+        <note xml:id="note1" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: ad ogni piè. Spiegazione: A ogni passo | continuamente | ripetutamente</note>
+        <note xml:id="note2" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: non inducas in tentationem. Traduzione: non abbandonarci alla tentazione</note>        
+        <note xml:id="note3" resp="Giorgia Migliorini" type="annotation" place="bottom">Il pronome 'si' è impiegato in funzione di un soggetto indefinito 'noi' </note>
+        <note xml:id="note4" resp="Giorgia Migliorini" type="annotation" place="bottom">Il pronome 'si' è impiegato con funzione impersonale</note>
+        <note xml:id="note5" resp="Giorgia Migliorini" type="annotation" place="bottom">Il pronome 'si' è impiegato con funzione pleonastica</note>
+        <note xml:id="note6" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: del pari. Spiegazione: ugualmente</note>
+        <note xml:id="note7" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: testé. Spiegazione: poco fa</note>
+        <note xml:id="note8" resp="Giorgia Migliorini" type="annotation" place="bottom">'tutto questo' si riferisce alle coordinate delle righe 23-26</note>
+        <note xml:id="note9" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: amministrazione della cosa pubblica. Spiegazione: pubblica aministrazione|gestione dei beni pubblici</note>
+        <note xml:id="note10" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: onde. Spiegazione: da cui|da dove</note>
+        <note xml:id="note11" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: guisa. Spiegazione: forma | maniera | modo</note>
+        <note xml:id="note12" resp="Giorgia Migliorini" type="annotation" place="bottom">il verbo 'emanare' è impiegato col significato di 'formare|creare|originare'</note>
+        <note xml:id="note13" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: siansi. Spiegazione: siano</note>
+        <note xml:id="note14" resp="Giorgia Migliorini" type="annotation" place="bottom">'lui' fa riferimento al 'Governo', qui personificato</note>
+        <note xml:id="note15" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: concione. Spiegazione: arringa pubblica</note>
+        <note xml:id="note16" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: china. Spiegazione: pendio|superficie in pendenza</note>
+        <note xml:id="note17" resp="Giorgia Migliorini" type="certainity" place="bottom"><mentioned>piazza</mentioned> fa riferimento al pubblico, al popolo, richiamando il concetto di piazza come luogo di organizzazione, dibattito e contestazione</note>
+        <note xml:id="note18" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: a man salva. Spiegazione: senza impedimenti</note>
+        <note xml:id="note19" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: sic vos non vobis. Traduzione: così voi non per voi</note>
+        <note xml:id="note20" resp="Giorgia Migliorini" type="gloss" place="bottom">Spiegazione: in onta. Espressione: malgrado | nonostante</note>
+        <note xml:id="note21" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: bell&#8217;e. Spiegazione: indica conclusione di un&#8217;azione</note>
+        <note xml:id="note22" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: Raccolta. Spiegazione: Il termine fa riferimento alla pubblicazione della casa editrice Successori Le Monnier</note>
+        <note xml:id="note23" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: adunque. Spiegazione: variante letteraria di dunque</note>
+        <note xml:id="note24" resp="Giorgia Migliorini" type="certainity" place="bottom">La referenza bibliografica fa riferimento all&#8217;opera sopracitata del <persName><surname>Mauri</surname></persName></note>
+        <note xml:id="note25" resp="Giorgia Migliorini" type="gloss" place="bottom">Spiegazione: sopravegliare. Espressione: soprintendere | prestare attenzione</note>
+        <note xml:id="note26" resp="Giorgia Migliorini" type="annotation" place="bottom">L&#8217;impresa fa riferimento al tentativo di annessione delle <region><geogName>Marche</geogName></region> e dell&#8217;<region><geogName>Umbria</geogName></region> al <country type="historical">Regno unito d&#8217;Italia</country>, in construzione</note>
+        <note xml:id="note27" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: rizzare. Spiegazione: qui usato col significato di alzare | elevare | diventare</note>
+        <note xml:id="note28" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: alla spicciolata. Spiegazione: a un gruppo di pochi</note>
+        <note xml:id="note29" resp="Giorgia Migliorini" type="annotation" place="bottom">Personaggio inventato per la narrazione</note>
+        <note xml:id="note30" resp="Giorgia Migliorini" type="gloss" place="bottom">L'espressione fa riferimento a un gruppo di lavori, centrali per la tradizione letteraria medievale, che ruotano attorno alla 
             leggenda di Artù e alle storie sui suoi cavalieri</note>
-        <note xml:id="note31" type="bibliography" place="bottom">
+        <note xml:id="note31" resp="Giorgia Migliorini" type="bibliography" place="bottom">
             <mentioned xml:lang="fr">Olinde et Sopbronie</mentioned> fa riferimento all'episodio conosciuto col titolo di
             <bibl>
                 <biblScope>
@@ -222,12 +222,12 @@ esplicitando, pero, grazie ai tag ref e target la corretta disposizione grafica 
                 <title ref="https://it.wikipedia.org/wiki/Gerusalemme_liberata"><settlement type="city"> Gerusalemme</settlement>liberata</title>
             </bibl>              
         </note>
-        <note xml:id="note32" type="certainity" place="bottom"><certainty locus="value"><desc>È probabile che <mentioned>sic</mentioned> sia impiegato dall'autore o dall'editore del testo
+        <note xml:id="note32" resp="Giorgia Migliorini"  type="certainity" place="bottom"><certainty locus="value"><desc>È probabile che <mentioned>sic</mentioned> sia impiegato dall'autore o dall'editore del testo
         per segnalare la trasposizione errata, ma esatta in termini di trascrizione, del cognome Canale.</desc></certainty></note>
-        <note xml:id="note33" type="certainty" place="bottom"><certainty locus="name"><desc><mentioned>Prolegomeni</mentioned> è utilizzato non nel suo significato lessicale, bensì probabilmente
+        <note xml:id="note33" resp="Giorgia Migliorini" type="certainty" place="bottom"><certainty locus="name"><desc><mentioned>Prolegomeni</mentioned> è utilizzato non nel suo significato lessicale, bensì probabilmente
         in riferimento all'opera omonima di Immanuel Kant</desc></certainty></note>
-        <note xml:id="note34" type="gloss" place="bottom">Espressione: siasi studiato di. Spiegazione: si sia impegnato | sforzato di</note>
-        <note xml:id="note35">nota dell'editore</note>
+        <note xml:id="note34" resp="Giorgia Migliorini" type="gloss" place="bottom">Espressione: siasi studiato di. Spiegazione: si sia impegnato | sforzato di</note>
+        <note xml:id="note35" resp="Giorgia Migliorini" >Nota dell'editore</note>
         </noteGrp>
     </noteGrp>
 </notesStmt>
@@ -1029,7 +1029,7 @@ esplicitando, pero, grazie ai tag ref e target la corretta disposizione grafica 
                                         </s>
                                         <s>
                                             Egli sa che <persName ref="#BL"><forename>Brunetto</forename> <surname>La-
-                                            <lb n="256" break="no"/>tini</surname></persName>scrisse una grammatica <term type="national concept">francese</term> <quote xml:id="fr">«appelée <bibl><title xml:lang="fr">Le livre de
+                                            <lb n="256" break="no"/>tini</surname></persName> scrisse una grammatica <term type="national concept">francese</term> <quote xml:id="fr">«appelée <bibl><title xml:lang="fr">Le livre de
                                                 <lb n="257"/>la bonne parleur</title></bibl><sic>,</sic> »</quote> <corr>,</corr> fatto di una importanza enorme, che rac­-
                                             <lb n="258" break="no"/>comandiamo caldamente all&#8217;attenzione dei romanisti.                                                   
                                         </s>
@@ -1341,13 +1341,8 @@ esplicitando, pero, grazie ai tag ref e target la corretta disposizione grafica 
                                         <lb n="375" break="no"/>piccolisce perfettamente tanto quanto ha ingrandito la
                                         <lb n="376"/>prima<pc type="suspension dots">...</pc> Ecco l&#8217;unica e sola spiegazione del <hi rend="case(allcaps)">DIFFICILE E 
                                         <lb n="377"/>COMPLICATO</hi> <distinct>istrumento</distinct> <reg>strumento</reg><sic>.</sic> <sic>«</sic> <corr>»</corr></quote><corr>.</corr>
-                                    </s>
-                                    <floatingText>
-                                        <body>
-                                            <note ana="note35"/>
-                                           <ab>(Lo stampatello è nel testo).</ab>
-                                        </body>
-                                    </floatingText>
+                                    </s> (Lo stampatello è nel testo). <ref ana="note35"/>
+                                
                                 </p>
                                 <p xml:id="paragrafo7_brano4" rend="first-line-indent justify">
                                 <quote>
